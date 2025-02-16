@@ -6,10 +6,10 @@
 ---
 
 ## 📂 專案內容
-- [HW1](#hw1)：車輛與行人偵測與追蹤
-- [HW2](#hw2)：車牌辨識
-- [HW3](#hw3)：森林火災影像分類
-- [HW4](#hw4)：Stable Diffusion 訓練 Pokemon 風格模型
+- [HW1](https://github.com/pincheng0523/Computer-Vision/tree/main/HW1)：車輛與行人偵測與追蹤
+- [HW2](https://github.com/pincheng0523/Computer-Vision/tree/main/HW2)：車牌辨識
+- [HW3](https://github.com/pincheng0523/Computer-Vision/tree/main/HW3)：森林火災影像分類
+- [HW4](https://github.com/pincheng0523/Computer-Vision/tree/main/HW4)：Stable Diffusion 訓練 Pokemon 風格模型
 
 ---
 
