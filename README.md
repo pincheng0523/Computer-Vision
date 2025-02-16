@@ -83,6 +83,7 @@
 ### 🔹 Results（結果與發現）
 - 訓練準確度達 **97%**，驗證準確度約 **93%**。
 - 但在 **紅色調影像**（如楓葉林）容易誤判，可能是因為訓練數據主要為綠色森林。
+- 結果展示影片:https://drive.google.com/file/d/1KCyni3sXaTOd1Ss9NtmD2HmhLsHCDl4_/view?usp=drive_link
 
 ### 🔹 Contribution & Impact（貢獻與影響）
 - **貢獻**：透過數據增強技術提高森林火災辨識準確率。
