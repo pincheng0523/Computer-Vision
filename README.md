@@ -99,10 +99,10 @@
 本作業選擇訓練 **Stable Diffusion** 模型，以 **Pokemon 風格** 的圖片進行訓練，目標是透過 **文字 (prompt) 輸入** 來生成不同風格的寶可夢圖片。
 
 ### 🔹 Results（結果示例）
-![](Computer-Vision/HW4/totoro.png)  
+![](https://github.com/pincheng0523/Computer-Vision/blob/main/HW4/totoro.png)  
 **Totoro**
 
-| ![](Computer-Vision/HW4/dog.png) | ![](Computer-Vision/HW4/cat.png) |
+| ![](https://github.com/pincheng0523/Computer-Vision/blob/main/HW4/dog.png) | ![](https://github.com/pincheng0523/Computer-Vision/blob/main/HW4/cat.png) |
 |:--:|:--:|
 | **Dog** | **Cat** |
 
